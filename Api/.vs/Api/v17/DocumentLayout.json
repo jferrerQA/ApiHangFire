@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\JanFerrerAbad\\Documents\\Proyecto Hanghfire\\Api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2CC8F16F-1EF1-4ADF-B13E-33DE677E24DA}|Api\\Api.csproj|c:\\users\\janferrerabad\\documents\\proyecto hanghfire\\api\\api\\startup\\dependencesconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CC8F16F-1EF1-4ADF-B13E-33DE677E24DA}|Api\\Api.csproj|solutionrelative:api\\startup\\dependencesconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CC8F16F-1EF1-4ADF-B13E-33DE677E24DA}|Api\\Api.csproj|c:\\users\\janferrerabad\\documents\\proyecto hanghfire\\api\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CC8F16F-1EF1-4ADF-B13E-33DE677E24DA}|Api\\Api.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CC8F16F-1EF1-4ADF-B13E-33DE677E24DA}|Api\\Api.csproj|c:\\users\\janferrerabad\\documents\\proyecto hanghfire\\api\\api\\data\\jobdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CC8F16F-1EF1-4ADF-B13E-33DE677E24DA}|Api\\Api.csproj|solutionrelative:api\\data\\jobdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CC8F16F-1EF1-4ADF-B13E-33DE677E24DA}|Api\\Api.csproj|c:\\users\\janferrerabad\\documents\\proyecto hanghfire\\api\\api\\endpoints\\jobendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CC8F16F-1EF1-4ADF-B13E-33DE677E24DA}|Api\\Api.csproj|solutionrelative:api\\endpoints\\jobendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CC8F16F-1EF1-4ADF-B13E-33DE677E24DA}|Api\\Api.csproj|c:\\users\\janferrerabad\\documents\\proyecto hanghfire\\api\\api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2CC8F16F-1EF1-4ADF-B13E-33DE677E24DA}|Api\\Api.csproj|solutionrelative:api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CC8F16F-1EF1-4ADF-B13E-33DE677E24DA}|Api\\Api.csproj|c:\\users\\janferrerabad\\documents\\proyecto hanghfire\\api\\api\\data\\jobdata.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2CC8F16F-1EF1-4ADF-B13E-33DE677E24DA}|Api\\Api.csproj|solutionrelative:api\\data\\jobdata.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DependencesConfig.cs",
+              "DocumentMoniker": "C:\\Users\\JanFerrerAbad\\Documents\\Proyecto Hanghfire\\Api\\Api\\StartUp\\DependencesConfig.cs",
+              "RelativeDocumentMoniker": "Api\\StartUp\\DependencesConfig.cs",
+              "ToolTip": "C:\\Users\\JanFerrerAbad\\Documents\\Proyecto Hanghfire\\Api\\Api\\StartUp\\DependencesConfig.cs",
+              "RelativeToolTip": "Api\\StartUp\\DependencesConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T14:27:57.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "jobData.json",
+              "DocumentMoniker": "C:\\Users\\JanFerrerAbad\\Documents\\Proyecto Hanghfire\\Api\\Api\\Data\\jobData.json",
+              "RelativeDocumentMoniker": "Api\\Data\\jobData.json",
+              "ToolTip": "C:\\Users\\JanFerrerAbad\\Documents\\Proyecto Hanghfire\\Api\\Api\\Data\\jobData.json",
+              "RelativeToolTip": "Api\\Data\\jobData.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-05T12:52:36.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "JobData.cs",
+              "DocumentMoniker": "C:\\Users\\JanFerrerAbad\\Documents\\Proyecto Hanghfire\\Api\\Api\\Data\\JobData.cs",
+              "RelativeDocumentMoniker": "Api\\Data\\JobData.cs",
+              "ToolTip": "C:\\Users\\JanFerrerAbad\\Documents\\Proyecto Hanghfire\\Api\\Api\\Data\\JobData.cs",
+              "RelativeToolTip": "Api\\Data\\JobData.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAcwAwAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T12:51:50.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\JanFerrerAbad\\Documents\\Proyecto Hanghfire\\Api\\Api\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Api\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\JanFerrerAbad\\Documents\\Proyecto Hanghfire\\Api\\Api\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Api\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-05T12:50:54.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\JanFerrerAbad\\Documents\\Proyecto Hanghfire\\Api\\Api\\Program.cs",
+              "RelativeDocumentMoniker": "Api\\Program.cs",
+              "ToolTip": "C:\\Users\\JanFerrerAbad\\Documents\\Proyecto Hanghfire\\Api\\Api\\Program.cs",
+              "RelativeToolTip": "Api\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T12:49:35.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "JobEndPoints.cs",
+              "DocumentMoniker": "C:\\Users\\JanFerrerAbad\\Documents\\Proyecto Hanghfire\\Api\\Api\\EndPoints\\JobEndPoints.cs",
+              "RelativeDocumentMoniker": "Api\\EndPoints\\JobEndPoints.cs",
+              "ToolTip": "C:\\Users\\JanFerrerAbad\\Documents\\Proyecto Hanghfire\\Api\\Api\\EndPoints\\JobEndPoints.cs",
+              "RelativeToolTip": "Api\\EndPoints\\JobEndPoints.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T12:47:31.487Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

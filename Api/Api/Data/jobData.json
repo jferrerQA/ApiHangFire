@@ -1,0 +1,22 @@
+﻿[
+  {
+    "id": 1,
+    "state": "success",
+    "name": "BackgroundJob",
+    "createdDate": "2025-11-05",
+    "updateCount": "0",
+    "isRecurrent": false,
+    "text": "",
+    "value": "null"
+  },
+  {
+    "id": 2,
+    "state": "success",
+    "name": "RecurrentJob",
+    "createdDate": "2025-11-05",
+    "updateCount": "0",
+    "isRecurrent": true,
+    "text": "Queque",
+    "value": "default"
+  }
+]

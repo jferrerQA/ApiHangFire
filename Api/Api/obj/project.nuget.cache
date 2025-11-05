@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "B5HyCU+wcs8=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\JanFerrerAbad\\Documents\\Proyecto Hanghfire\\Api\\Api\\Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\JanFerrerAbad\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.7\\microsoft.aspnetcore.openapi.9.0.7.nupkg.sha512",
+    "C:\\Users\\JanFerrerAbad\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512",
+    "C:\\Users\\JanFerrerAbad\\.nuget\\packages\\scalar.aspnetcore\\2.10.1\\scalar.aspnetcore.2.10.1.nupkg.sha512"
+  ],
+  "logs": []
+}

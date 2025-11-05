@@ -1,0 +1,56 @@
+C:\Users\JanFerrerAbad\Documents\Proyecto Hanghfire\Monitor hangfire\Monitor hangfire\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\JanFerrerAbad\Documents\Proyecto Hanghfire\Monitor hangfire\Monitor hangfire\bin\Debug\net8.0\appsettings.json
+C:\Users\JanFerrerAbad\Documents\Proyecto Hanghfire\Monitor hangfire\Monitor hangfire\bin\Debug\net8.0\Monitor hangfire.staticwebassets.endpoints.json
+C:\Users\JanFerrerAbad\Documents\Proyecto Hanghfire\Monitor hangfire\Monitor hangfire\bin\Debug\net8.0\Monitor hangfire.exe
+C:\Users\JanFerrerAbad\Documents\Proyecto Hanghfire\Monitor hangfire\Monitor hangfire\bin\Debug\net8.0\Monitor hangfire.deps.json
+C:\Users\JanFerrerAbad\Documents\Proyecto Hanghfire\Monitor hangfire\Monitor hangfire\bin\Debug\net8.0\Monitor hangfire.runtimeconfig.json
+C:\Users\JanFerrerAbad\Documents\Proyecto Hanghfire\Monitor hangfire\Monitor hangfire\bin\Debug\net8.0\Monitor hangfire.dll
+C:\Users\JanFerrerAbad\Documents\Proyecto Hanghfire\Monitor hangfire\Monitor hangfire\bin\Debug\net8.0\Monitor hangfire.pdb
+C:\Users\JanFerrerAbad\Documents\Proyecto Hanghfire\Monitor hangfire\Monitor hangfire\bin\Debug\net8.0\Dapper.dll
+C:\Users\JanFerrerAbad\Documents\Proyecto Hanghfire\Monitor hangfire\Monitor hangfire\bin\Debug\net8.0\Hangfire.AspNetCore.dll
+C:\Users\JanFerrerAbad\Documents\Proyecto Hanghfire\Monitor hangfire\Monitor hangfire\bin\Debug\net8.0\Hangfire.Core.dll
+C:\Users\JanFerrerAbad\Documents\Proyecto Hanghfire\Monitor hangfire\Monitor hangfire\bin\Debug\net8.0\Hangfire.NetCore.dll
+C:\Users\JanFerrerAbad\Documents\Proyecto Hanghfire\Monitor hangfire\Monitor hangfire\bin\Debug\net8.0\Hangfire.PostgreSql.dll
+C:\Users\JanFerrerAbad\Documents\Proyecto Hanghfire\Monitor hangfire\Monitor hangfire\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\JanFerrerAbad\Documents\Proyecto Hanghfire\Monitor hangfire\Monitor hangfire\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\JanFerrerAbad\Documents\Proyecto Hanghfire\Monitor hangfire\Monitor hangfire\bin\Debug\net8.0\Npgsql.dll
+C:\Users\JanFerrerAbad\Documents\Proyecto Hanghfire\Monitor hangfire\Monitor hangfire\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\JanFerrerAbad\Documents\Proyecto Hanghfire\Monitor hangfire\Monitor hangfire\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\JanFerrerAbad\Documents\Proyecto Hanghfire\Monitor hangfire\Monitor hangfire\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\JanFerrerAbad\Documents\Proyecto Hanghfire\Monitor hangfire\Monitor hangfire\bin\Debug\net8.0\ca\Hangfire.Core.resources.dll
+C:\Users\JanFerrerAbad\Documents\Proyecto Hanghfire\Monitor hangfire\Monitor hangfire\bin\Debug\net8.0\de\Hangfire.Core.resources.dll
+C:\Users\JanFerrerAbad\Documents\Proyecto Hanghfire\Monitor hangfire\Monitor hangfire\bin\Debug\net8.0\es\Hangfire.Core.resources.dll
+C:\Users\JanFerrerAbad\Documents\Proyecto Hanghfire\Monitor hangfire\Monitor hangfire\bin\Debug\net8.0\fa\Hangfire.Core.resources.dll
+C:\Users\JanFerrerAbad\Documents\Proyecto Hanghfire\Monitor hangfire\Monitor hangfire\bin\Debug\net8.0\fr\Hangfire.Core.resources.dll
+C:\Users\JanFerrerAbad\Documents\Proyecto Hanghfire\Monitor hangfire\Monitor hangfire\bin\Debug\net8.0\nb\Hangfire.Core.resources.dll
+C:\Users\JanFerrerAbad\Documents\Proyecto Hanghfire\Monitor hangfire\Monitor hangfire\bin\Debug\net8.0\nl\Hangfire.Core.resources.dll
+C:\Users\JanFerrerAbad\Documents\Proyecto Hanghfire\Monitor hangfire\Monitor hangfire\bin\Debug\net8.0\pt-BR\Hangfire.Core.resources.dll
+C:\Users\JanFerrerAbad\Documents\Proyecto Hanghfire\Monitor hangfire\Monitor hangfire\bin\Debug\net8.0\pt-PT\Hangfire.Core.resources.dll
+C:\Users\JanFerrerAbad\Documents\Proyecto Hanghfire\Monitor hangfire\Monitor hangfire\bin\Debug\net8.0\pt\Hangfire.Core.resources.dll
+C:\Users\JanFerrerAbad\Documents\Proyecto Hanghfire\Monitor hangfire\Monitor hangfire\bin\Debug\net8.0\sv\Hangfire.Core.resources.dll
+C:\Users\JanFerrerAbad\Documents\Proyecto Hanghfire\Monitor hangfire\Monitor hangfire\bin\Debug\net8.0\tr-TR\Hangfire.Core.resources.dll
+C:\Users\JanFerrerAbad\Documents\Proyecto Hanghfire\Monitor hangfire\Monitor hangfire\bin\Debug\net8.0\zh-TW\Hangfire.Core.resources.dll
+C:\Users\JanFerrerAbad\Documents\Proyecto Hanghfire\Monitor hangfire\Monitor hangfire\bin\Debug\net8.0\zh\Hangfire.Core.resources.dll
+C:\Users\JanFerrerAbad\Documents\Proyecto Hanghfire\Monitor hangfire\Monitor hangfire\obj\Debug\net8.0\Monitor hangfire.csproj.AssemblyReference.cache
+C:\Users\JanFerrerAbad\Documents\Proyecto Hanghfire\Monitor hangfire\Monitor hangfire\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\JanFerrerAbad\Documents\Proyecto Hanghfire\Monitor hangfire\Monitor hangfire\obj\Debug\net8.0\Monitor hangfire.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JanFerrerAbad\Documents\Proyecto Hanghfire\Monitor hangfire\Monitor hangfire\obj\Debug\net8.0\Monitor hangfire.AssemblyInfoInputs.cache
+C:\Users\JanFerrerAbad\Documents\Proyecto Hanghfire\Monitor hangfire\Monitor hangfire\obj\Debug\net8.0\Monitor hangfire.AssemblyInfo.cs
+C:\Users\JanFerrerAbad\Documents\Proyecto Hanghfire\Monitor hangfire\Monitor hangfire\obj\Debug\net8.0\Monitor hangfire.csproj.CoreCompileInputs.cache
+C:\Users\JanFerrerAbad\Documents\Proyecto Hanghfire\Monitor hangfire\Monitor hangfire\obj\Debug\net8.0\Monitor hangfire.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\JanFerrerAbad\Documents\Proyecto Hanghfire\Monitor hangfire\Monitor hangfire\obj\Debug\net8.0\Monitor hangfire.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\JanFerrerAbad\Documents\Proyecto Hanghfire\Monitor hangfire\Monitor hangfire\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\JanFerrerAbad\Documents\Proyecto Hanghfire\Monitor hangfire\Monitor hangfire\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\JanFerrerAbad\Documents\Proyecto Hanghfire\Monitor hangfire\Monitor hangfire\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\JanFerrerAbad\Documents\Proyecto Hanghfire\Monitor hangfire\Monitor hangfire\obj\Debug\net8.0\scopedcss\bundle\Monitor hangfire.styles.css
+C:\Users\JanFerrerAbad\Documents\Proyecto Hanghfire\Monitor hangfire\Monitor hangfire\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\JanFerrerAbad\Documents\Proyecto Hanghfire\Monitor hangfire\Monitor hangfire\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\JanFerrerAbad\Documents\Proyecto Hanghfire\Monitor hangfire\Monitor hangfire\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\JanFerrerAbad\Documents\Proyecto Hanghfire\Monitor hangfire\Monitor hangfire\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\JanFerrerAbad\Documents\Proyecto Hanghfire\Monitor hangfire\Monitor hangfire\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\JanFerrerAbad\Documents\Proyecto Hanghfire\Monitor hangfire\Monitor hangfire\obj\Debug\net8.0\Monitor .28A43CAF.Up2Date
+C:\Users\JanFerrerAbad\Documents\Proyecto Hanghfire\Monitor hangfire\Monitor hangfire\obj\Debug\net8.0\Monitor hangfire.dll
+C:\Users\JanFerrerAbad\Documents\Proyecto Hanghfire\Monitor hangfire\Monitor hangfire\obj\Debug\net8.0\refint\Monitor hangfire.dll
+C:\Users\JanFerrerAbad\Documents\Proyecto Hanghfire\Monitor hangfire\Monitor hangfire\obj\Debug\net8.0\Monitor hangfire.pdb
+C:\Users\JanFerrerAbad\Documents\Proyecto Hanghfire\Monitor hangfire\Monitor hangfire\obj\Debug\net8.0\Monitor hangfire.genruntimeconfig.cache
+C:\Users\JanFerrerAbad\Documents\Proyecto Hanghfire\Monitor hangfire\Monitor hangfire\obj\Debug\net8.0\ref\Monitor hangfire.dll

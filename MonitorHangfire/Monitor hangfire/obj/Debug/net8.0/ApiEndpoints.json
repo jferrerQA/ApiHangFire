@@ -1,0 +1,52 @@
+[
+  {
+    "ContainingType": "Monitor_hangfire.Controllers.JobController",
+    "Method": "CreateBackgroundJob",
+    "RelativePath": "api/Job/CreateBackgroundJob",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Monitor_hangfire.Controllers.JobController",
+    "Method": "CreateFailJob",
+    "RelativePath": "api/Job/CreateFailJob",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Monitor_hangfire.Controllers.JobController",
+    "Method": "CreateRecurringJob",
+    "RelativePath": "api/Job/CreateRecurringJob",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Monitor_hangfire.Controllers.JobController",
+    "Method": "CreateScheduledJob",
+    "RelativePath": "api/Job/CreateScheduledJob",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Monitor_hangfire.Controllers.ValuesController",
+    "Method": "Getob",
+    "RelativePath": "api/Values",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

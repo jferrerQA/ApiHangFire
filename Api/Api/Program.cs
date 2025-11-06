@@ -1,5 +1,7 @@
+using Api.Data;
 using Api.EndPoints;
 using Api.StartUp;
+using Hangfire;
 using Scalar.AspNetCore;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -11,9 +13,22 @@ app.UseOpenApi();
 
 app.UseHttpsRedirection();
 
-app.MapGet("/", () => "Hello World");
+app.UseHangfireDashboard("/hangfire");
 
-app.AddJobsEndpoints();  
+app.MapGet("/", context =>
+{
+    context.Response.Redirect("/jobs");
+    return Task.CompletedTask;
+});
+
+app.AddJobsEndpoints();
+using (var scope = app.Services.CreateScope())
+{
+    var db = scope.ServiceProvider.GetRequiredService<DataContext>();
+    db.Database.EnsureCreated();  // <-- crea tablas automáticamente
+}
+
+
 app.Run();
 
 /*

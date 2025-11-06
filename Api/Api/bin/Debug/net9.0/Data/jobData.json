@@ -1,8 +1,8 @@
 ﻿[
   {
     "id": 1,
-    "state": "success",
     "name": "BackgroundJob",
+    "state": "success",
     "createdDate": "2025-11-05",
     "updateCount": "0",
     "isRecurrent": false,
@@ -11,8 +11,8 @@
   },
   {
     "id": 2,
-    "state": "success",
     "name": "RecurrentJob",
+    "state": "success",
     "createdDate": "2025-11-05",
     "updateCount": "0",
     "isRecurrent": true,

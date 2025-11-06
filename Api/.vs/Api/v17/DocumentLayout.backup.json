@@ -3,24 +3,44 @@
   "WorkspaceRootPath": "C:\\Users\\JanFerrerAbad\\Documents\\Proyecto Hanghfire\\Api\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2CC8F16F-1EF1-4ADF-B13E-33DE677E24DA}|Api\\Api.csproj|c:\\users\\janferrerabad\\documents\\proyecto hanghfire\\api\\api\\endpoints\\jobendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2CC8F16F-1EF1-4ADF-B13E-33DE677E24DA}|Api\\Api.csproj|solutionrelative:api\\endpoints\\jobendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2CC8F16F-1EF1-4ADF-B13E-33DE677E24DA}|Api\\Api.csproj|c:\\users\\janferrerabad\\documents\\proyecto hanghfire\\api\\api\\startup\\dependencesconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CC8F16F-1EF1-4ADF-B13E-33DE677E24DA}|Api\\Api.csproj|solutionrelative:api\\startup\\dependencesconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2CC8F16F-1EF1-4ADF-B13E-33DE677E24DA}|Api\\Api.csproj|c:\\users\\janferrerabad\\documents\\proyecto hanghfire\\api\\api\\data\\jobdata.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{2CC8F16F-1EF1-4ADF-B13E-33DE677E24DA}|Api\\Api.csproj|solutionrelative:api\\data\\jobdata.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{2CC8F16F-1EF1-4ADF-B13E-33DE677E24DA}|Api\\Api.csproj|c:\\users\\janferrerabad\\documents\\proyecto hanghfire\\api\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CC8F16F-1EF1-4ADF-B13E-33DE677E24DA}|Api\\Api.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CC8F16F-1EF1-4ADF-B13E-33DE677E24DA}|Api\\Api.csproj|c:\\users\\janferrerabad\\documents\\proyecto hanghfire\\api\\api\\models\\jobmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CC8F16F-1EF1-4ADF-B13E-33DE677E24DA}|Api\\Api.csproj|solutionrelative:api\\models\\jobmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CC8F16F-1EF1-4ADF-B13E-33DE677E24DA}|Api\\Api.csproj|c:\\users\\janferrerabad\\documents\\proyecto hanghfire\\api\\api\\endpoints\\jobendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CC8F16F-1EF1-4ADF-B13E-33DE677E24DA}|Api\\Api.csproj|solutionrelative:api\\endpoints\\jobendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2CC8F16F-1EF1-4ADF-B13E-33DE677E24DA}|Api\\Api.csproj|c:\\users\\janferrerabad\\documents\\proyecto hanghfire\\api\\api\\data\\jobdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2CC8F16F-1EF1-4ADF-B13E-33DE677E24DA}|Api\\Api.csproj|solutionrelative:api\\data\\jobdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2CC8F16F-1EF1-4ADF-B13E-33DE677E24DA}|Api\\Api.csproj|c:\\users\\janferrerabad\\documents\\proyecto hanghfire\\api\\api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{2CC8F16F-1EF1-4ADF-B13E-33DE677E24DA}|Api\\Api.csproj|solutionrelative:api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{2CC8F16F-1EF1-4ADF-B13E-33DE677E24DA}|Api\\Api.csproj|c:\\users\\janferrerabad\\documents\\proyecto hanghfire\\api\\api\\data\\jobdata.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2CC8F16F-1EF1-4ADF-B13E-33DE677E24DA}|Api\\Api.csproj|solutionrelative:api\\data\\jobdata.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2CC8F16F-1EF1-4ADF-B13E-33DE677E24DA}|Api\\Api.csproj|c:\\users\\janferrerabad\\documents\\proyecto hanghfire\\api\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2CC8F16F-1EF1-4ADF-B13E-33DE677E24DA}|Api\\Api.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2CC8F16F-1EF1-4ADF-B13E-33DE677E24DA}|Api\\Api.csproj|c:\\users\\janferrerabad\\documents\\proyecto hanghfire\\api\\api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2CC8F16F-1EF1-4ADF-B13E-33DE677E24DA}|Api\\Api.csproj|solutionrelative:api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CC8F16F-1EF1-4ADF-B13E-33DE677E24DA}|Api\\Api.csproj|c:\\users\\janferrerabad\\documents\\proyecto hanghfire\\api\\api\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CC8F16F-1EF1-4ADF-B13E-33DE677E24DA}|Api\\Api.csproj|solutionrelative:api\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CC8F16F-1EF1-4ADF-B13E-33DE677E24DA}|Api\\Api.csproj|c:\\users\\janferrerabad\\documents\\proyecto hanghfire\\api\\api\\startup\\openapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CC8F16F-1EF1-4ADF-B13E-33DE677E24DA}|Api\\Api.csproj|solutionrelative:api\\startup\\openapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CC8F16F-1EF1-4ADF-B13E-33DE677E24DA}|Api\\Api.csproj|c:\\users\\janferrerabad\\documents\\proyecto hanghfire\\api\\api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2CC8F16F-1EF1-4ADF-B13E-33DE677E24DA}|Api\\Api.csproj|solutionrelative:api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +50,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,33 +70,85 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
+              "Title": "JobModel.cs",
+              "DocumentMoniker": "C:\\Users\\JanFerrerAbad\\Documents\\Proyecto Hanghfire\\Api\\Api\\Models\\JobModel.cs",
+              "RelativeDocumentMoniker": "Api\\Models\\JobModel.cs",
+              "ToolTip": "C:\\Users\\JanFerrerAbad\\Documents\\Proyecto Hanghfire\\Api\\Api\\Models\\JobModel.cs",
+              "RelativeToolTip": "Api\\Models\\JobModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T07:43:26.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\JanFerrerAbad\\Documents\\Proyecto Hanghfire\\Api\\Api\\appsettings.json",
+              "RelativeDocumentMoniker": "Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\JanFerrerAbad\\Documents\\Proyecto Hanghfire\\Api\\Api\\appsettings.json",
+              "RelativeToolTip": "Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-06T07:20:55.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OpenApiConfig.cs",
+              "DocumentMoniker": "C:\\Users\\JanFerrerAbad\\Documents\\Proyecto Hanghfire\\Api\\Api\\StartUp\\OpenApiConfig.cs",
+              "RelativeDocumentMoniker": "Api\\StartUp\\OpenApiConfig.cs",
+              "ToolTip": "C:\\Users\\JanFerrerAbad\\Documents\\Proyecto Hanghfire\\Api\\Api\\StartUp\\OpenApiConfig.cs",
+              "RelativeToolTip": "Api\\StartUp\\OpenApiConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA0AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T07:20:53.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DependencesConfig.cs",
+              "DocumentMoniker": "C:\\Users\\JanFerrerAbad\\Documents\\Proyecto Hanghfire\\Api\\Api\\StartUp\\DependencesConfig.cs",
+              "RelativeDocumentMoniker": "Api\\StartUp\\DependencesConfig.cs",
+              "ToolTip": "C:\\Users\\JanFerrerAbad\\Documents\\Proyecto Hanghfire\\Api\\Api\\StartUp\\DependencesConfig.cs*",
+              "RelativeToolTip": "Api\\StartUp\\DependencesConfig.cs*",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T14:27:57.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "jobData.json",
               "DocumentMoniker": "C:\\Users\\JanFerrerAbad\\Documents\\Proyecto Hanghfire\\Api\\Api\\Data\\jobData.json",
               "RelativeDocumentMoniker": "Api\\Data\\jobData.json",
               "ToolTip": "C:\\Users\\JanFerrerAbad\\Documents\\Proyecto Hanghfire\\Api\\Api\\Data\\jobData.json",
               "RelativeToolTip": "Api\\Data\\jobData.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAATAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-11-05T12:52:36.771Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "JobData.cs",
               "DocumentMoniker": "C:\\Users\\JanFerrerAbad\\Documents\\Proyecto Hanghfire\\Api\\Api\\Data\\JobData.cs",
               "RelativeDocumentMoniker": "Api\\Data\\JobData.cs",
               "ToolTip": "C:\\Users\\JanFerrerAbad\\Documents\\Proyecto Hanghfire\\Api\\Api\\Data\\JobData.cs",
               "RelativeToolTip": "Api\\Data\\JobData.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAcwBUAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-05T12:51:50.6Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 9,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\JanFerrerAbad\\Documents\\Proyecto Hanghfire\\Api\\Api\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "Api\\Properties\\launchSettings.json",
@@ -89,26 +161,39 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\JanFerrerAbad\\Documents\\Proyecto Hanghfire\\Api\\Api\\Program.cs",
               "RelativeDocumentMoniker": "Api\\Program.cs",
               "ToolTip": "C:\\Users\\JanFerrerAbad\\Documents\\Proyecto Hanghfire\\Api\\Api\\Program.cs",
               "RelativeToolTip": "Api\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-05T12:49:35.162Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 7,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "C:\\Users\\JanFerrerAbad\\Documents\\Proyecto Hanghfire\\Api\\Api\\Data\\DataContext.cs",
+              "RelativeDocumentMoniker": "Api\\Data\\DataContext.cs",
+              "ToolTip": "C:\\Users\\JanFerrerAbad\\Documents\\Proyecto Hanghfire\\Api\\Api\\Data\\DataContext.cs",
+              "RelativeToolTip": "Api\\Data\\DataContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T15:25:21.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "JobEndPoints.cs",
               "DocumentMoniker": "C:\\Users\\JanFerrerAbad\\Documents\\Proyecto Hanghfire\\Api\\Api\\EndPoints\\JobEndPoints.cs",
               "RelativeDocumentMoniker": "Api\\EndPoints\\JobEndPoints.cs",
               "ToolTip": "C:\\Users\\JanFerrerAbad\\Documents\\Proyecto Hanghfire\\Api\\Api\\EndPoints\\JobEndPoints.cs",
               "RelativeToolTip": "Api\\EndPoints\\JobEndPoints.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAADAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-05T12:47:31.487Z",
               "EditorCaption": ""

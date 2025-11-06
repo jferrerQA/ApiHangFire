@@ -1,4 +1,7 @@
 ﻿using Api.Data;
+using Hangfire;
+using Hangfire.PostgreSql;
+using Microsoft.EntityFrameworkCore;
 
 namespace Api.StartUp
 {
@@ -8,12 +11,17 @@ namespace Api.StartUp
         {
             builder.Services.AddOpenApiServices();
 
-            /*var connectionString = builder.Configuration.GetConnectionString("DbConnection");
+            var connectionString = builder.Configuration.GetConnectionString("DbConnection");
 
-            builder.Services.addHangfire(ConfigurationBinder =>
+            builder.Services.AddDbContext<DataContext>(options=> options.UseNpgsql(connectionString));
+
+            /*builder.Services.AddHangfire(config=>
             {
-                config.Use
+                config.UsePostgreSqlStorage(connectionString);
             });*/
+
+            builder.Services.AddControllers();
+            builder.Services.AddHangfireServer();
 
             builder.Services.AddTransient<JobData>();
 

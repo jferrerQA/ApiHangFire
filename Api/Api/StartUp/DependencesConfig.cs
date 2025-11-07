@@ -13,7 +13,6 @@ namespace Api.StartUp
 
             var connectionString = builder.Configuration.GetConnectionString("DbConnection");
 
-            builder.Services.AddDbContext<DataContext>(options=> options.UseNpgsql(connectionString));
 
             /*builder.Services.AddHangfire(config=>
             {

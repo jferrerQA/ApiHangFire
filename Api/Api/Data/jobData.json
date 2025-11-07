@@ -6,8 +6,7 @@
     "createdDate": "2025-11-05",
     "updateCount": "0",
     "isRecurrent": false,
-    "text": "",
-    "value": "null"
+    "cron":  null
   },
   {
     "id": 2,
@@ -16,7 +15,16 @@
     "createdDate": "2025-11-05",
     "updateCount": "0",
     "isRecurrent": true,
-    "text": "Queque",
-    "value": "default"
+    "cron": "*/5 * * * *"
+  },
+  {
+    "id": 3,
+    "name": "UntopicJob",
+    "state": "failed",
+    "createdDate": "2025-11-05",
+    "updateCount": "0",
+    "isRecurrent": false,
+    "cron": null
   }
+
 ]

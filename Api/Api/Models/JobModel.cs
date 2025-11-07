@@ -13,8 +13,8 @@ namespace Api.Models
         public DateTime CreatedDate { get; set; }
         public string UpdateCount { get; set; } = "";
         public bool IsRecurrent { get; set; } 
-        public string Text { get; set; } = "";
-        public string Value { get; set; } = "";
+        public string? cron { get; set; } = "";
+        
     }
 
 }

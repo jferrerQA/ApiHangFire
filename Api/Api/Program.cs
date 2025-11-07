@@ -1,6 +1,7 @@
 using Api.Data;
 using Api.EndPoints;
 using Api.StartUp;
+using Api.Workers;
 using Hangfire;
 using Scalar.AspNetCore;
 
@@ -15,19 +16,49 @@ app.UseHttpsRedirection();
 
 app.UseHangfireDashboard("/hangfire");
 
+
 app.MapGet("/", context =>
 {
     context.Response.Redirect("/jobs");
     return Task.CompletedTask;
 });
 
-app.AddJobsEndpoints();
+
+
 using (var scope = app.Services.CreateScope())
 {
     var db = scope.ServiceProvider.GetRequiredService<DataContext>();
-    db.Database.EnsureCreated();  // <-- crea tablas automáticamente
+    db.Database.EnsureCreated(); 
 }
+app.UseOpenApi();
 
+app.UseHttpsRedirection();
+app.UseHangfireDashboard("/hangfire");
+
+
+
+app.AddJobsEndpoints();
+
+using (var scope = app.Services.CreateScope())
+{
+    var jobData = scope.ServiceProvider.GetRequiredService<JobData>();
+    var worker = scope.ServiceProvider.GetRequiredService<JobWorker>();
+
+    foreach (var job in jobData.Jobs)
+    {
+        // Crea un job real en Hangfire basado en tus datos del JSON
+        if (job.IsRecurrent)
+        {
+            RecurringJob.AddOrUpdate(job.Name, () => worker.EjecutarJobsRecurrentes(job), job.cron);
+        }
+        else
+        {
+            BackgroundJob.Enqueue(() => worker.EjecutarJobsNoRecurrentes(job));
+        }
+        
+        
+    }
+}
 
 app.Run();
 

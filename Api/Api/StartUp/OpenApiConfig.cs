@@ -16,7 +16,14 @@ namespace Api.StartUp
             if (app.Environment.IsDevelopment())
             {
                 app.MapOpenApi();
-                app.MapScalarApiReference();
+                app.MapScalarApiReference(options =>
+                {
+                    options.Layout = ScalarLayout.Modern;
+                    options.HideClientButton=true;
+
+                });
+                
+             
             }
         }
     }

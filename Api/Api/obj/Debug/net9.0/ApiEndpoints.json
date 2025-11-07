@@ -1,7 +1,7 @@
 [
   {
-    "ContainingType": "Api.EndPoints.JobEndPoints\u002B\u003C\u003Ec",
-    "Method": "\u003CAddJobsEndpoints\u003Eb__0_0",
+    "ContainingType": "Api.EndPoints.JobEndPoints",
+    "Method": "AllJobs",
     "RelativePath": "jobs",
     "HttpMethod": "GET",
     "IsController": false,
@@ -9,10 +9,68 @@
     "Parameters": [],
     "ReturnTypes": [
       {
-        "Type": "System.Collections.Generic.List\u00601[[Api.Models.JobModel, Api, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
-        "MediaTypes": [
-          "application/json"
-        ],
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Api.EndPoints.JobEndPoints",
+    "Method": "JobById",
+    "RelativePath": "jobs/{id}",
+    "HttpMethod": "GET",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Api.EndPoints.JobEndPoints",
+    "Method": "CountAllJobs",
+    "RelativePath": "jobs/qtt",
+    "HttpMethod": "GET",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Api.EndPoints.JobEndPoints",
+    "Method": "JobByState",
+    "RelativePath": "jobs/state/{state}",
+    "HttpMethod": "GET",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "state",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
         "StatusCode": 200
       }
     ]
